@@ -1,4 +1,4 @@
-# Project 1: Driving Licenses, Traffic Accidents and Casualties Analysis
+# Project: Driving Licenses, Traffic Accidents and Casualties Analysis
 
 ## Problem Statment
 
